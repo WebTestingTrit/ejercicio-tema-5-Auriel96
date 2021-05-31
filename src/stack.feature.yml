@@ -1,0 +1,4 @@
+FEATURE: a Stack class
+  As a: user
+  I want to: be able to push and pop elements into a stack
+  In order to: reproduce a LIFO system
